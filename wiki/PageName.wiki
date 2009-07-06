@@ -1,0 +1,11 @@
+#summary optionlist jquery plugin
+
+= Introduction =
+
+This is the project of optionlist plugin
+
+
+= Details =
+
+Example and code is in
+http://www.smartango.com/en/blog/jquery-optionlist-plugin
